@@ -30,6 +30,7 @@
                 autoRowHeight: false,
                 striped: true,
                 remoteSort: false,
+                rownumbers: 5,
                 toolbar : [{
                     id : 'btnToday',
                     text : '今天',
