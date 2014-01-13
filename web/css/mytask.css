@@ -1,0 +1,33 @@
+.top {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.top .commonBtn {
+    border-radius: 5px;
+    width: 80px;
+    margin: 0 10px 0 10px;
+}
+
+.top .leftRadioBtn {
+     border-bottom-left-radius: 5px;
+     border-top-left-radius: 5px;
+     width: 80px;
+ }
+
+.top .rightRadioBtn {
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 80px;
+}
+
+.weekdays {
+    background-color: brown;
+}
+
+.weekday {
+    width: 120px;
+}
+

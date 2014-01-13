@@ -1,0 +1,10 @@
+table {
+    border: 1px solid blueviolet;
+    width: 960px;
+    margin: 0 auto
+}
+
+table td {
+    border : 1px solid black;
+    width: 120px;
+}
